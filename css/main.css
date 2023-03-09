@@ -1,0 +1,33 @@
+@font-face {
+  font-display: swap;
+  font-family: "PT Root UI Web";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/PT-Root-UI_Regular.ttf");
+}
+@font-face {
+  font-display: swap;
+  font-family: "PT Root UI Web";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/PT-Root-UI_Medium.ttf");
+}
+@font-face {
+  font-display: swap;
+  font-family: "PT Root UI Web";
+  font-style: normal;
+  font-weight: 600;
+  src: url("../fonts/PT-Root-UI_Bold.ttf");
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+
+body {
+  background-color: #F0F0F0;
+  font: 100% "PT Root UI Web";
+}/*# sourceMappingURL=main.css.map */
